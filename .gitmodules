@@ -1,3 +1,4 @@
 [submodule "TestSubProject"]
 	path = TestSubProject
 	url = https://github.com/csf-andyliao/TestSubProject.git
+	branch = main
